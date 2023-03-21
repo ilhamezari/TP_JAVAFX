@@ -1,5 +1,4 @@
-
--- Base de données : `db_stock`
+ Base de données : `db_stock`
 --
 
 -- --------------------------------------------------------
